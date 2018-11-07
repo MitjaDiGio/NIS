@@ -1,0 +1,31 @@
+button{
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    background-color: #c8c8c8;
+    color: black;
+    padding: 15px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+#myButton{
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    background-color: #c8c8c8;
+    color: black;
+    padding: 15px;
+}
+#myTable{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 423px;
+    
+}
